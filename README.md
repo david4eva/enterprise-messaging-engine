@@ -2,7 +2,7 @@
 ### Salesforce + Twilio SendGrid Decoupled Architecture
 
 <p align="center">
-  <img src="images/enterprise-messaging-engine.png" width="800" alt="RelayForce System Architecture">
+  <img src="images/enterprise-messaging-engine.png" width="800" alt="SendGridDispatcherBatch System Architecture">
 </p>
 
 ![Salesforce](https://img.shields.io/badge/Platform-Salesforce-blue) ![AWS-Ready](https://img.shields.io/badge/Architecture-AWS--Ready-orange) ![License-MIT](https://img.shields.io/badge/License-MIT-green)
